@@ -2,12 +2,12 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
+| Group \#:  1    |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  | Spencer van Roessel |
+|                 | Harris Hasnain |
+|                 | Houssem Zaggar |
+|                 | Kaylyn Tanton |
 
 # Introduction
 
