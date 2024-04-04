@@ -85,4 +85,6 @@ Disadvantages:
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
+The biggest difficulty we encountered was the software's incompatibility with MacOS. All of our team members had Macs besides one that had a spare Windows laptop. This made it harder to collaborate on the lab together. To overcome this, most of the work was done synchronously in person. 
+
 # Comments/feedback on the lab itself
