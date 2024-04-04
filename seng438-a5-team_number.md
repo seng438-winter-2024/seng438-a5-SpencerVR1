@@ -39,6 +39,10 @@ Intensity Graph of 'IFRGSB' Model
 Intensity Graph of 'TL' Model
 <img width="959" alt="intensity grey" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/9cd016f3-4149-4b01-a91e-0dc000734d37">
 
+## A discussion on decision making given a target failure rate	
+
+## A discussion on the advantages and disadvantages of reliability growth analysis	
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
