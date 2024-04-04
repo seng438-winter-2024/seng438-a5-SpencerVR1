@@ -43,6 +43,22 @@ Intensity Graph of 'TL' Model
 
 ## A discussion on the advantages and disadvantages of reliability growth analysis	
 
+Advantages:
+- Can be used to predict the system's reliability  over time.
+- Can help teams allocate resources better or prioritize more crucial improvements.
+- Can help identify weaknesses in the system earlier in the development process, addressing issues promptly and improving overall reliability.
+- Promotes continuous improvement by tracking metrics over time.
+- Can help predict maintenance needs to prevent failures before they happen.
+- Saves cost by reducing downtime.
+- Can help determine which tests need to be run and when they need to run.
+
+Disadvantages:
+- Actual results may differ from predictions. For example, unexpected failures or changes in the environment or system will affect predictive accuracy.
+- Dependent on the data provided. The predictions will be negatively impacted if the data is insufficient, inaccurate, or difficult to obtain.
+- Can be resource intensive. Smaller organizations may struggle with time, data collection, and analysis.
+- Translating findings into actionable improvements may be challenging. 
+- Can be complex and may require technical expertise.
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
