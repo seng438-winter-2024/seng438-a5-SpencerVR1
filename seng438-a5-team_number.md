@@ -16,6 +16,8 @@
 # Assessment Using Reliability Growth Testing 
 <img width="959" alt="MVF all" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/9a6db9ac-5a52-4cdb-a12d-6213a30d8c74">
 
+We overlayed all the models over each other and deselected the worst ones until we were left with the best two. We found that the best models were 'TL' and 'IFRGSB'. The model comparison tab confirmed this, as those two models exhibited the lowest log-likelihood scores which is a metric that indicates its goodness of fit.
+
 <img width="959" alt="MVF 2" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/0ad8bfde-7a4b-44dd-a6ab-07b8bd3367b0">
 
 <img width="959" alt="MVF orange" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/96232f05-f131-4d2e-9973-42d20b4ecd4f">
