@@ -27,15 +27,17 @@ We overlayed all the models over each other and deselected the worst ones until 
 
 ## Plots for failure rate and reliability of the SUT for the test data provided	
 
+MVF Graph of 'IFRGSB' Model
 <img width="959" alt="MVF orange" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/96232f05-f131-4d2e-9973-42d20b4ecd4f">
 
+MVF Graph of 'TL' Model
 <img width="959" alt="MVF grey" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/9ddb0d0c-3b61-4fbd-9f97-aa55e2f6f10c">
 
+Intensity Graph of 'IFRGSB' Model
 <img width="959" alt="intensity orange" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/22453a4d-4ed5-4bcc-ac9e-1cc03588c4c9">
 
+Intensity Graph of 'TL' Model
 <img width="959" alt="intensity grey" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/9cd016f3-4149-4b01-a91e-0dc000734d37">
-
-
 
 # Assessment Using Reliability Demonstration Chart 
 
