@@ -11,6 +11,12 @@
 
 # Introduction
 
+This lab report explores two primary methodologies: Reliability Growth Testing in Part 1 and Reliability Assessment using Reliability Demonstration Charts (RDC) in  Part 2. 
+
+Part 1 gave us hands-on experience in assessing the reliability of a hypothetical system given its failure data collected during integration testing. This was done using the reliability growth assessment tool, C-SFRAT. Through this, we better understood reliability growth testing, learned how to measure the failure rate, MTTF, and reliability of the SUT, and became familiar with C-SFRAT. 
+
+Part 2 involved using a Reliability Demonstration Chart (RDC) to check whether or not the target failure rate or MTTF is met. We had to decide upon the adequacy of testing for a given MTTF of the SUT by plotting the test data. This section allowed us to become familiar with the features and usage of an RDCtool.
+
 # 
 
 # Assessment Using Reliability Growth Testing 
