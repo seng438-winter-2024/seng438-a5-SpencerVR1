@@ -45,7 +45,9 @@ Intensity Graph of 'IFRGSB' Model
 Intensity Graph of 'TL' Model
 <img width="959" alt="intensity grey" src="https://github.com/seng438-winter-2024/seng438-a5-SpencerVR1/assets/113068550/9cd016f3-4149-4b01-a91e-0dc000734d37">
 
-## A discussion on decision making given a target failure rate	
+## A discussion on decision making given a target failure rate
+
+We used the C-SFRAT reliability assessment tool to plot the varying amount of failures over time intervals from our dataset, then used these results to analyze the change in failure rate and associated reliability over time for our system. We determined a target value for our failure rate by dividing the total number of failures in the interval by the time length of that interval. The plot of failure rate and amount of failures changing over time can help us make a decision as to whether we are satisfied or not with the reliability of our system. If the target failure rate is found to be too high, we can bring it down by improving the quality of our code and depth of our test suite to make sure that we are thoroughly assessing our code as effectively as possible before release to give end-users the highest quality experience, hence the primary objective during this failure rate analysis and decision making process should be to try to lower the failure rate as much as possible.
 
 ## A discussion on the advantages and disadvantages of reliability growth analysis	
 
