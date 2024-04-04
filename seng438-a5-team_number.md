@@ -67,7 +67,11 @@ Disadvantages:
 
 # Assessment Using Reliability Demonstration Chart 
 
-# 
+## 3 plots for MTTFmin, twice and half of it for your test data	
+
+## Explain your evaluation and justification of how you decide the MTTFmin	
+
+## A discussion on the advantages and disadvantages of RDC	
 
 # Comparison of Results
 
